@@ -29,15 +29,15 @@ Si vous choisissez la version JDK x64 pour Java, vous devez aussi choisir la ver
 Il faut au préalable avoir ajouté les chemins des exécutables (Java et GCC) dans la variable path
 https://www.java.com/fr/download/help/path.xml
 
-``
+```
 java --version ou  java -version: Doit afficher la version de Java utilisée
-``
+```
 
 et
 
-``
+```
 GCC --version: Doit afficher la version GCC
-``
+```
 
 ### Installation
 
