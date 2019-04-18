@@ -23,7 +23,7 @@ echo.
 echo EXECUTION DU CODE NATIF C/C++ EN JAVA AVEC L'API JNI
 echo.
 echo @author Jerome Dh
-echo @see https://www.linkedin.com/in/jerome-dh/	
+echo @see https://github.com/jerome-Dh/jni-exemple	
 echo @date: 18 Avril 2019	
 echo.
 echo ----------------------------------------------------------------
