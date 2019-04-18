@@ -51,12 +51,12 @@ Doit afficher la version GCC
 - Télécharger le projet sur Github (utiliser le bouton clone en haut à droite)
 ![download](https://github.com/jerome-Dh/jni-exemple/blob/master/resources/download.png)
 
-- Dézzipez le dossier téléchargé quelque part dans votre machine
+- Dézippez le dossier téléchargé quelque part dans votre machine
 ![Structure](https://github.com/jerome-Dh/jni-exemple/blob/master/resources/structure.png)
 
 ## Lancer les tests
 
-Le dossier dézzipé contient un fichier batch nommé ``launch.cmd`` permettant d'automatiser la construction et l'exécution
+Le dossier dézippé contient un fichier batch nommé ``launch.cmd`` permettant d'automatiser la construction et l'exécution
 
 Vous pourrez modifier cette configuration selon vos besoins.
 
