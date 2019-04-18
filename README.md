@@ -60,7 +60,7 @@ Le dossier dézippé contient un fichier batch nommé ``launch.cmd`` permettant 
 
 Vous pourrez modifier cette configuration selon vos besoins.
 
-Double-cliquez sur le fichier batch ``launch.cmd`` pour exécuter l'application. Le résultat ressemblera à l'image d'illustration situé à l'entête de cette page.
+Double-cliquez sur le fichier batch ``launch.cmd`` pour exécuter l'application. Le résultat ressemblera à l'image d'illustration située à l'entête de cette page.
 
 Vous pourvez modifier le code source Java ou C  pour voir les changements ensuite.
 
