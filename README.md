@@ -62,23 +62,23 @@ Vous pourrez modifier cette configuration selon vos besoins.
 
 Double-cliquez sur le fichier batch ``launch.cmd`` pour exécuter l'application. Le résultat ressemblera à l'image d'illustration située à l'entête de cette page.
 
-Vous pourvez modifier le code source Java ou C  pour voir les changements ensuite.
+Vous pouvez modifier le code source Java et/ou C pour voir les changements ensuite.
 
 
 ### Organisation des dossiers
  
  Les dossiers permettent de mieux séparer le code pour plus de flexibilité
  
-- `` classes `` contient les fichiers de bytecodes générés par javac
-- `` headers `` contient les fichiers d'entêtes C/C++ générés par javac
+- `` classes `` contient les fichiers de bytecodes(.class) générés par javac
+- `` headers `` contient les fichiers d'entêtes C/C++ automatiquement générés par javac
 - `` java `` porte le code source java
-- `` libs `` contient les bibliothèques dynamiques (dll ou so) générées par GCC
-- `` resources `` utilisé pour mettre quelques images d'illustration
+- `` libs `` contient les bibliothèques dynamiques (dll ou so) générées par GCC lors de la compilation
+- `` resources `` utilisé pour les images d'illustration et autres ressources nécéssaires
 - `` sources `` pour les codes sources C/C++
 
 `` Note: `` Cette organisation n'est pas obligatoire, il s'agit simplement d'une façon de mieux régrouper les différentes parties de l'application. Vous pouvez l'adapter selon votre convenance.
 
-Le fichier `` launch.cmd `` est utile à la fois pour configurer, mais aussi pour exécuter l'application
+Le fichier `` launch.cmd `` est utile à la fois pour configurer, mais aussi pour exécuter automatiquement l'application
 
 
 ## Construite avec
