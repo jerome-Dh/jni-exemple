@@ -30,7 +30,8 @@ Mais avant de vous lancer dans cette exemple, rassurer vous d'avoir installé et
 
 `` Note:`` Si vous choisissez la version JDK x64 pour Java, vous devez aussi choisir la version x64 de GCC pour que l'exemple s'exécute correctement
 
-`` Astuce:`` Tester les commandes suivantes en console pour être sûr que tout fonctionne
+`` Astuce:`` Tester les commandes suivantes en console pour être sûr que tout fonctionne.
+
 Il faut au préalable avoir ajouté les chemins des exécutables (Java et GCC) dans [la variable path](https://www.java.com/fr/download/help/path.xml)
 
 ```
