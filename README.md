@@ -56,9 +56,13 @@ Doit afficher la version GCC
 
 ## Lancer les tests
 
-Le dossier dézzipé contient un fichier bash nommé ``launch.cmd`` permettant d'automatiser la construction et l'exécution
+Le dossier dézzipé contient un fichier batch nommé ``launch.cmd`` permettant d'automatiser la construction et l'exécution
 
 Vous pourrez modifier cette configuration selon vos besoins.
+
+Double-cliquez sur le fichier batch ``launch.cmd`` pour exécuter l'application. Le résultat ressemblera à l'image d'illustration situé à l'entête de cette page.
+
+Vous pourvez modifier le code source Java ou C  pour voir les changements ensuite.
 
 
 ### Organisation des dossiers
